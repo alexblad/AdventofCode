@@ -1,0 +1,7 @@
+- Handshake involves an operation that TRANSFORMS a SUBJECT NUMBER
+
+Transforming the subject NUMBER
+val = 1 -> val = (val * SUBJECT NUMBER) % 20201227
+SUBJECT NUMBER = 7
+
+Door Key = 11349501
