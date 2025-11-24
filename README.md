@@ -16,7 +16,7 @@ Solutions are organized by year and then by day (e.g., `2020/Day1`).
 | 2017 | ![Stars 2017](https://img.shields.io/badge/stars-0/50-lightgrey) | `(TBD)` |
 | 2018 | ![Stars 2018](https://img.shields.io/badge/stars-0/50-lightgrey) | `(TBD)` |
 | 2019 | ![Stars 2019](https://img.shields.io/badge/stars-0/50-lightgrey) | `(TBD)` |
-| 2020 | ![Stars 2020](https://img.shields.io/badge/stars-7/50-yellow) | `Python, TypeScript` |
+| 2020 | ![Stars 2020](https://img.shields.io/badge/stars-14/50-yellow) | `Python, TypeScript` |
 | 2021 | ![Stars 2021](https://img.shields.io/badge/stars-0/50-lightgrey) | `(TBD)` |
 | 2022 | ![Stars 2022](https://img.shields.io/badge/stars-0/50-lightgrey) | `(TBD)` |
 | 2023 | ![Stars 2023](https://img.shields.io/badge/stars-0/50-lightgrey) | `(TBD)` |
