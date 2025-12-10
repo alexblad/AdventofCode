@@ -21,4 +21,4 @@ Solutions are organized by year and then by day (e.g., `2020/Day1`).
 | 2022 | ![Stars 2022](https://img.shields.io/badge/stars-0/50-lightgrey) | `(TBD)` |
 | 2023 | ![Stars 2023](https://img.shields.io/badge/stars-0/50-lightgrey) | `(TBD)` |
 | 2024 | ![Stars 2024](https://img.shields.io/badge/stars-0/50-lightgrey) | `(TBD)` |
-| 2025 | ![Stars 2025](https://img.shields.io/badge/stars-2/24-yellow) | `Python` |
+| 2025 | ![Stars 2025](https://img.shields.io/badge/stars-4/24-yellow) | `Python, C++` |
